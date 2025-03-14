@@ -1,0 +1,4 @@
+﻿  baitapudbai6.cpp
+D:\CRDL_GT\BTSX\BTSX\baitapudbai6.cpp(55,13): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+D:\CRDL_GT\BTSX\BTSX\baitapudbai6.cpp(55,13): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+  BTSX.vcxproj -> D:\CRDL_GT\BTSX\x64\Debug\BTSX.exe
